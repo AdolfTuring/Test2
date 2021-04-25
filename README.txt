@@ -1,0 +1,1 @@
+main page(127.0.0.1) get two argument {''data'':[1,2,3], ''rule'':['a','b','c']} and return result {''result'':[1,5,10]}
