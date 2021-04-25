@@ -3,4 +3,4 @@ ENV PYTHONUNBUFFERED=1
 RUN mkdir /test
 WORKDIR /test
 COPY . /test/
-RUN pip install -r requirements.txt
+RUN pip install -r requiremets.txt
